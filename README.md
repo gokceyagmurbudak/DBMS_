@@ -22,3 +22,9 @@ He/She have some authorization.
 Admin can view the needed details of users.
 If admin thinks that, there are fake ads or false information about estates, he/she can delete it or change the details.
 
+
+#User Module
+User Module contains person who is property of owner, brokers/agents and buyer.
+The user can place advertisements, have information about the advertisements.
+Users can create a own profile.
+
