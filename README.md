@@ -14,3 +14,11 @@ Software      :  Visual Studio Code
 
 
 --The main purpose of this project is to use the database in the web environment, to create a query environment and to understand the web base management systems--
+
+# Admin Module
+Admin can manage the website.
+Our admin module will see the many thing about database.
+He/She have some authorization.
+Admin can view the needed details of users.
+If admin thinks that, there are fake ads or false information about estates, he/she can delete it or change the details.
+
