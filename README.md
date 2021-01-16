@@ -29,3 +29,5 @@ The user can place advertisements, have information about the advertisements.
 Users can create a own profile.
 
 you can run localhost/Geowner
+
+Database and images are reserved.
