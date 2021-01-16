@@ -1,6 +1,6 @@
 # Real Estate Management System Using PHP and MySQL
 
-Project Name :  Real Estate Management System Project
+Project Name :  Geowner 
 
 Language Used:  PHP/ Javascript(optional)
 
@@ -28,3 +28,4 @@ User Module contains person who is property of owner, brokers/agents and buyer.
 The user can place advertisements, have information about the advertisements.
 Users can create a own profile.
 
+you can run localhost/Geowner
