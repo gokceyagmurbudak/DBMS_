@@ -1,0 +1,17 @@
+RewriteEngine on
+ 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+
+RewriteRule ^anasayfa$ index.php [NC,L]
+RewriteRule ^hakkımızda$ hakkimizda.php [NC,L]
+RewriteRule ^satılıkilanlarım$ satilik.php [NC,L]
+RewriteRule ^kiralıkilanlarım$ kiralik.php [NC,L]
+RewriteRule ^arsailanlarım$ arsa.php [NC,L]
+RewriteRule ^önemlibilgiler$ onemlibilgiler.php [NC,L]
+RewriteRule ^iletişimsayfası$ iletisim.php [NC,L]
+
+#ErrorDocument 404 http://yazilimyolcusu.com
+
