@@ -86,7 +86,7 @@ $hakkimizdacek=$hakkimizda->fetch(PDO::FETCH_ASSOC);
               
                     </ul>
                   </li>
-                  <li><a href="arsailanlarım">Arsa</a></li> 
+                  
                          <li><a href="önemlibilgiler">Önemli bilgiler</a></li>
                   <li><a href="iletişimsayfası">İletişim</a></li>
                 </ul>
