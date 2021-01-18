@@ -72,9 +72,9 @@ while ($ekipcek=$ekip->fetch(PDO::FETCH_ASSOC)) {
                 <span class="d-block mb-3 text-white-opacity-05"><?php echo $ekipcek['gorev'] ?></span>
                 
                 <p>
-                  <a href="#" class="text-black p-2"><span class="icon-facebook"></span></a>
-                  <a href="#" class="text-black p-2"><span class="icon-twitter"></span></a>
-                  <a href="#" class="text-black p-2"><span class="icon-linkedin"></span></a>
+                  <a href="https://www.facebook.com/profile.php?id=100006338136044" class="text-black p-2"><span class="icon-facebook"></span></a>
+                  <a href="https://twitter.com/Mamiculooo" class="text-black p-2"><span class="icon-twitter"></span></a>
+                  <a href="https://tr.linkedin.com/public-profile/in/g%C3%B6k%C3%A7e-ya%C4%9Fmur-budak-1820a5179?challengeId=AQGdjrzUqjiFVwAAAXcXVE8qUNHroxhQrbNtGWbD3toIHcPvQaZ3J5UFa_NRhWOB2WTr1_DlEAiNJ3xFtCRbeJ8yImX8hbuQ0A&submissionId=e15c0a27-ba6f-5b16-ec2c-911862e9bf0e" class="text-black p-2"><span class="icon-linkedin"></span></a>
                 </p>
               </div>
 
